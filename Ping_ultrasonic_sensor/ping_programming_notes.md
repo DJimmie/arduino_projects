@@ -1,4 +1,4 @@
-# Programming Notes-for the Alt-Ping Sensor Program
+# Programming Notes-for the Ping Sensor Program
 
 
 [Ping Ultrasonic Range Finder](https://www.arduino.cc/en/Tutorial/Ping)
